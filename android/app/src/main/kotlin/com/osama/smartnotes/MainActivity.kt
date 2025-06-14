@@ -1,4 +1,4 @@
-package com.example.osama
+package com.osama.smartnotes
 
 import io.flutter.embedding.android.FlutterActivity
 
